@@ -1,0 +1,17 @@
+{
+    "Site": {},
+    "ElectricLoad": {
+        "doe_reference_name": "FlatLoad"
+    },
+    "ElectricTariff": {},
+    "ElectricUtility": {},
+    "PV": {},
+    "Wind":{},
+    "DomesticHotWaterLoad": {
+        "doe_reference_name": "FlatLoad_16_7"
+    },
+    "ExistingBoiler": {
+        "production_type": "hot_water"
+    },
+    "CHP": {}
+}
